@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logoREADME.png" alt="TesourarIA Logo" width="200">
+    <img src="/public/images/logoREADME.png" alt="TesourarIA Logo" width="200">
 </p>
 # TesourarIA
 
