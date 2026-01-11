@@ -1,7 +1,8 @@
 <p align="center">
-    <img src="/public/images/logoREADME.svg" alt="TesourarIA Logo" width="200">
+    <img src="/public/images/logoREADME.svg" alt="TesourarIA Logo" width="800">
 </p>
-# TesourarIA
+
+## TesourarIA
 
 TesourarIA é um sistema desenvolvido para gestão financeira local, focado em facilitar o controle e a manutenção das finanças de pequenas organizações ou equipes. O projeto foi criado com o objetivo de economizar tempo e recursos, utilizando inteligência artificial para auxiliar no desenvolvimento e otimização das funcionalidades.
 
