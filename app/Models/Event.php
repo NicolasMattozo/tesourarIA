@@ -13,6 +13,8 @@ class Event extends Model
         'end_date'
     ];
 
+    public $timestamps = true;
+
     public function transactions()
     {
         return $this->hasMany(Transaction::class);
@@ -27,5 +29,9 @@ class Event extends Model
     {
         return $this->hasMany(Bus::class);
     }
-}
 
+    public function users()
+    {
+        return $this->belongsToMany(User::class)->withTimestamps();
+    }
+}

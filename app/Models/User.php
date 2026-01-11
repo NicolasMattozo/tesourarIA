@@ -23,6 +23,7 @@ class User extends Authenticatable
         'password',
         'church_section_id',
     ];
+    public $timestamps = true;
 
     public function churchSection()
     {
@@ -31,7 +32,7 @@ class User extends Authenticatable
 
     public function roles()
     {
-        return $this->belongsToMany(Role::class);
+        return $this->belongsToMany(Role::class)->withTimestamps();
     }
 
     public function transactions()
@@ -47,6 +48,11 @@ class User extends Authenticatable
     public function busPassengers()
     {
         return $this->hasMany(BusPassenger::class);
+    }
+
+    public function events()
+    {
+        return $this->belongsToMany(Event::class)->withTimestamps();
     }
 
 
