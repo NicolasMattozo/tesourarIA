@@ -4,35 +4,35 @@
 
 ## TesourarIA
 
-TesourarIA é um sistema desenvolvido para gestão financeira local, focado em facilitar o controle e a manutenção das finanças de pequenas organizações ou equipes. O projeto foi criado com o objetivo de economizar tempo e recursos, utilizando inteligência artificial para auxiliar no desenvolvimento e otimização das funcionalidades.
+TesourarIA is a system developed for local financial management, focused on facilitating the control and maintenance of finances for small organizations or teams. The project was created with the goal of saving time and resources, using artificial intelligence to assist in the development and optimization of features.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **Laravel**: Framework PHP robusto para backend e organização do projeto.
-- **Tailwind CSS (via CDN)**: Framework utilitário para estilização rápida e responsiva.
-- **Alpine.js (via CDN)**: Biblioteca leve para interatividade no frontend.
+- **Laravel**: Robust PHP framework for backend and project organization.
+- **Tailwind CSS (via CDN)**: Utility-first framework for fast and responsive styling.
+- **Alpine.js (via CDN)**: Lightweight library for frontend interactivity.
 
-## Objetivos
+## Goals
 
-- Proporcionar uma solução simples e eficiente para gestão financeira local.
-- Facilitar a manutenção e atualização do sistema.
-- Reduzir o tempo de desenvolvimento com o auxílio de inteligência artificial.
+- Provide a simple and efficient solution for local financial management.
+- Make system maintenance and updates easier.
+- Reduce development time with the help of artificial intelligence.
 
-## Funcionalidades
+## Features
 
-- Cadastro e gerenciamento de receitas e despesas.
-- Gestão de Eventos e Meio de Locomoção em relação aos pagamentos.
-- Relatórios financeiros simplificados.
-- Interface intuitiva e responsiva.
-- Fácil instalação e configuração.
+- Registration and management of income and expenses.
+- Management of Events and Means of Transportation related to payments.
+- Simplified financial reports.
+- Intuitive and responsive interface.
+- Easy installation and configuration.
 
-## Futuras Implementações
+## Future Implementations
 
-- Integração de uma IA capaz de analisar relatórios financeiros e sugerir ideias para melhor gestão e economia.
+- Integration of AI capable of analyzing financial reports and suggesting ideas for better management and savings.
 
-## Observações
+## Notes
 
-Este sistema foi desenvolvido com o apoio de ferramentas de inteligência artificial para acelerar o processo de criação e garantir boas práticas de desenvolvimento.
+This system was developed with the support of artificial intelligence tools to accelerate the creation process and ensure good development practices.
 
 ---
-Desenvolvido por Nicolas Mattozo Ciriaco.
+Developed by Nicolas Mattozo Ciriaco.
